@@ -15,5 +15,5 @@ comments: false
 {% capture images %}
     https://user-images.githubusercontent.com/32405726/44923725-bdc8c900-ad0e-11e8-9698-ff828042dfb1.PNG
 {% endcapture %}
-{% include gallery images=images cols=2 %}
+{% include gallery images=images cols=1 %}
 
