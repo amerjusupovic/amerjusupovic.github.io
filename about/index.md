@@ -13,7 +13,7 @@ comments: false
 * My mission in ISM is to continue creating valuable connections within the professional world and to expand my understanding of the field of computer science in order to improve my chances of obtaining my vision for success in the future. While working under the guidance of a mentor, I aim to learn how to succeed as a professional in the field and develop a final project that will force me to improve and evolve as a computer scientist. I hope to challenge myself and be able to inspire others to begin their journey into discovering their full potential. 
 
 {% capture images %}
-    https://user-images.githubusercontent.com/32405726/44923725-bdc8c900-ad0e-11e8-9698-ff828042dfb1.PNG
+    https://cloud.githubusercontent.com/32405726/44923725-bdc8c900-ad0e-11e8-9698-ff828042dfb1.PNG
 {% endcapture %}
 {% include gallery images=images cols=3 %}
 
