@@ -2,7 +2,7 @@
 layout: post-list
 title: My Blog - A Progression
 excerpt: "A List of Posts"
-feature: https://i.imgur.com/hjqnXw5.jpg
+feature: https://user-images.githubusercontent.com/32405726/45268035-dcc90880-b43c-11e8-9f2e-95a5566bdf92.jpg
 comments: false
 ---
 
