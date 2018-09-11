@@ -1,7 +1,6 @@
 ---
 layout: post-list
 title: My Blog - A Progression
-excerpt: "A List of Posts"
 comments: false
 ---
 
