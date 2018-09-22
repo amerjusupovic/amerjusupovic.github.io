@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2018-09-22
 title: My CV
 comments: false
 ---
