@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-09-22
-title: My CV
+title: My Resume
 comments: false
 ---
 
