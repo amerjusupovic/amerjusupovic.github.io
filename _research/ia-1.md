@@ -1,7 +1,7 @@
 ---
 layout: research
 title: "Primary Source Analysis 1"
-date: 2018-09-07
+date: 2018-09-21
 excerpt: "Informational Interview with George Mihaila"
 tags: [primary, research, interview]
 feature: https://imgur.com/NeFndvm
