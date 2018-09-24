@@ -3,7 +3,6 @@ layout: post
 title: "Primary Source Analysis 1"
 date: 2018-09-21
 excerpt: "Informational Interview with George Mihaila"
-research: true
 tags: [primary, research, interview]
 feature: https://imgur.com/NeFndvm
 comments: false
