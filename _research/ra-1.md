@@ -1,10 +1,11 @@
 ---
-layout: research
+layout: post
 title: "Secondary Source Analysis 1"
 date: 2018-09-07
 excerpt: "Deep Learning for Image Recognition and Code Interpretability"
 tags: [secondary, research, article]
 feature: https://imgur.com/NeFndvm
+research: true
 comments: false
 ---
 
