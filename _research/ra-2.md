@@ -1,10 +1,11 @@
 ---
-layout: research
+layout: post
 title: "Secondary Source Analysis 2"
 date: 2018-09-14
 excerpt: "Cooperative Game Theory Applied to Random Forests"
 tags: [secondary, research, article]
 feature: https://imgur.com/NeFndvm
+research: true
 comments: false
 ---
 
