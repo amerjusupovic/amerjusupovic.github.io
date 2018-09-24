@@ -1,5 +1,5 @@
 ---
-layout: research-list
+layout: research
 title: My Research
 excerpt: ""
 comments: false
