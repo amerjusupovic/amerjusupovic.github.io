@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: research
 title: My Research
 comments: false
 ---
