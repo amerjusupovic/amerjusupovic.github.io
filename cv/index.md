@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 date: 2018-09-22
 title: My Resume
 comments: false
