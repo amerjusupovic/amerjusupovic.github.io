@@ -2,6 +2,7 @@
 layout: page
 date: 2018-10-05
 title: About ISM
+feature: https://imgur.com/RXzzP4Y
 comments: false
 ---
 
