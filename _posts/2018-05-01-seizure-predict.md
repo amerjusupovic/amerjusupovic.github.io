@@ -4,6 +4,7 @@ title:  "Seizure Prediction"
 date:   2018-05-01
 excerpt: ""
 project: true
+excerpt: "2017-2018 ISM Final Product"
 tag:
 - python
 - project
