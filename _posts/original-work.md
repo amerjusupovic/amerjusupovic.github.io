@@ -4,6 +4,10 @@ title:  "Original Work"
 date: 2018-12-14
 excerpt: "2018-2019 ISM Original Work"
 project: true
+tag:
+- project
+- python
+- NLP
 comments: false
 ---
 
