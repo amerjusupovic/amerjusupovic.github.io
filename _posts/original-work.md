@@ -12,4 +12,4 @@ comments: false
 
 # Project
 
-* This is where I will post my Original Work project for this school year, on or soon after December 14th.
+* This is where I will post my Original Work project for this school year, on or soon after December 14th, 2018.
