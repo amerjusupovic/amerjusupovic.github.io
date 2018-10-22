@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Final Product"
-date: 2019-05-06
+date: 2018-10-22
 excerpt: "2018-2019 ISM Final Product"
 project: true
 comments: false
