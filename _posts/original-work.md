@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Original Work"
-date: 2018-10-22
+date: 2018-12-14
 excerpt: "2018-2019 ISM Original Work"
 project: true
 comments: false
