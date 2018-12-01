@@ -5,4 +5,4 @@ title: My Resume
 comments: false
 ---
 
-<iframe src="https://drive.google.com/file/d/1L3od0KIYLO2zFnNkY_0C8lI5ow13frIZ/preview" width="710" height="720"></iframe>
+<iframe src="https://drive.google.com/file/d/1V0zm5QnHTstltOm8tCRHPIrsE5Xj32JM/preview" width="710" height="600"></iframe>
