@@ -71,4 +71,4 @@ model.fit(np.array(input_array), np.array(target), batch_size=100, epochs=20, va
 
 # Original Work Assessment
 
-
+<iframe src="https://drive.google.com/file/d/1jE7DpKn2aZdAqiWBKrR0dJZdKYWQIJl-/preview" width="710" height="600"></iframe>
