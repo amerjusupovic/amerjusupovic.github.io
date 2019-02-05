@@ -6,7 +6,9 @@ comments: false
 ---
 
 {% capture images %}
+    https://user-images.githubusercontent.com/32405726/45105440-de6f9500-b0f9-11e8-84bd-6203fcb17d29.png
     https://user-images.githubusercontent.com/32405726/52248667-1b140800-28b5-11e9-999b-f0c97ff03aa8.jpg
+    https://user-images.githubusercontent.com/32405726/45105440-de6f9500-b0f9-11e8-84bd-6203fcb17d29.png
 {% endcapture %}
 
 Viju Kothuvatiparambil is currently working as the Team Lead for Artificial Intelligence at Bank of America from his office in the Dallas area. As one of the lead developers for the Erica personal banking assistant, he has 22 years of experience in software development and over 5 years in artificial intelligence/machine learning and natural language processing. He has a wealth of experience developing software in a corporate setting and fully understands the limitations many businesses have, especially on the amount of money and time they have to spend on website and mobile applications. Because of this, he decided to found his company Mindmax Software Solutions in 2011, tasked to help small businesses and individuals who hope to create their own online applications.
