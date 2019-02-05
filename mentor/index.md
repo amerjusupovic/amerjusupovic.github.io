@@ -7,7 +7,7 @@ comments: false
 
 {% capture images %}
     https://user-images.githubusercontent.com/32405726/45105440-de6f9500-b0f9-11e8-84bd-6203fcb17d29.png
-    https://user-images.githubusercontent.com/32405726/52248667-1b140800-28b5-11e9-999b-f0c97ff03aa8.jpg
+    https://user-images.githubusercontent.com/32405726/52249027-b063cc00-28b6-11e9-9459-a661db395002.PNG
     https://user-images.githubusercontent.com/32405726/45105440-de6f9500-b0f9-11e8-84bd-6203fcb17d29.png
 {% endcapture %}
 
